@@ -29,5 +29,4 @@ function CreateTodo() {
     </div>
   );
 }
-
 export default CreateTodo;
